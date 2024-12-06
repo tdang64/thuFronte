@@ -1,0 +1,16 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    gap: 15px; /* Adds space between items */
+    background-color: cadetblue;
+  
+}
+
+.logo2{
+    object-fit: cover;
+    height: 3rem;
+    padding-top: 0;
+    width: 3rem;
+    border-radius: 20%;
+
+}
